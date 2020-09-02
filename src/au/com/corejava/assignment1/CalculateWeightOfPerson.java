@@ -6,7 +6,7 @@ public class CalculateWeightOfPerson {
 
 	public static void main(String[] args) {
 
-		System.out.println("Enter weights of 5 persons");
+		System.out.println("Enter weights of 5 persons to calculate Net Weight and Average Weight");
 
 		Scanner scanner = new Scanner(System.in);
 
